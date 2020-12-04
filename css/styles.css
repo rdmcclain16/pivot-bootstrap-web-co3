@@ -1,0 +1,25 @@
+/* CSS HEX */
+/* --russian-violet: #231942ff;
+--purple-navy: #5e548eff;
+--purple-mountain-majesty: #9f86c0ff;
+--lilac: #be95c4ff;
+--pink-lavender: #e0b1cbff; */
+
+nav {
+    background-color: #5e548eff;
+}
+
+.card {
+    margin: : 0;
+}
+
+.card img {
+    width: 100% !important;
+    max-height: 232.177px;
+}
+
+.carousel-item img {
+    max-height: 400px;
+}
+
+
